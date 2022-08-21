@@ -2,6 +2,7 @@ div {
   display: flex;
   justify-content: space-around;
 }
+
 form {
   margin: 0 auto;
   margin-top: 50px;
